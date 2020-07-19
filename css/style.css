@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+img {
+    display: block;
+    height: auto;
+    border: 0;
+}
+
+p {
+    color: gray
+}
+
+.logo img {
+    max-width: 200px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+#banner-head {
+    margin-top: 5%;
+    background-color: #002633;
+    height: 500px;
+    width: 100%;
+}
+
+.banner {
+    padding-top: 5%;
+}
+
+.banner-eliment {
+    padding: 10%;
+    font-weight: bold;
+}
+
+.banner-eliment h1 {
+    padding-bottom: 4%;
+}
+
+.head-card {
+    margin-top: 10%;
+}
+
+.pera {
+    color: white;
+}
+
+.text-color {
+    color: black;
+}
+
+.text-color h1 {
+    text-transform: uppercase;
+}
+
+#heroes {
+    margin-top: 5%;
+    background-color: #49BF4C;
+    height: 350px;
+    width: 100%;
+}
+
+.text {
+    padding: 4%;
+    text-align: center;
+    color: white;
+}
+
+.text h1 {
+    font-size: 50px;
+}
+
+.text p {
+    color: thistle;
+    font-size: 20px;
+    padding-top: 2%;
+}
+
+.bio {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+span {
+    color: #49BF4C;
+}
+
+.Text {
+    text-align: center;
+    color: #002633;
+}
+
+.Text h2 {
+    margin-top: 3%;
+    font-size: 3rem;
+    letter-spacing: -2px;
+    font-weight: 300px;
+}
+
+.Text p {
+    margin-top: 3%;
+    color: #777;
+    font-size: 20px !important;
+    line-height: 1.4;
+    font-weight: 300px;
+}
+
+.align img {
+    text-align: center;
+    padding-left: 45%;
+}
+
+.browser {
+    color: #49BF4C;
+    text-align: center;
+    font-size: 25px;
+}
